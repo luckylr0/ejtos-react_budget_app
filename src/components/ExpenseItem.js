@@ -24,7 +24,7 @@ const ExpenseItem = (props) => {
         });
 
         const decreaseAllocation = (name) =< {
-        const expense = {
+          const expense = {
             name: name,
             cost: 10,
         };
